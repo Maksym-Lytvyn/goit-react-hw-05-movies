@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/201.b8195db4.chunk.js","mappings":"0JAGA,UAHiB,WACf,OAAO,qOACR,C","sources":["components/NotFound/NotFound.js"],"sourcesContent":["const NotFound = () => {\n  return <section>Овва, такої сторінки не існує, вибачте...</section>;\n};\nexport default NotFound;\n"],"names":[],"sourceRoot":""}
