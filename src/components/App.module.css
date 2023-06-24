@@ -1,0 +1,8 @@
+.nav_style {
+    background-color: rgb(255, 0, 0);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    color: aliceblue;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+}

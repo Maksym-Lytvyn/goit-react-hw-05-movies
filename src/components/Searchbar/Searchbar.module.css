@@ -1,0 +1,13 @@
+.inputStyled {
+  min-width: 300px;
+  min-height: 25px;
+  margin-left: 5px;
+  margin-left: 15px;
+}
+
+.buttonStyled {
+  margin-top: 10px;
+  margin-left: 5px;
+  min-width: 30px;
+  min-height: 25px;
+}

@@ -1,0 +1,19 @@
+.pic_styled {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+.det_styled {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  padding-top: 20px;
+  padding-left: 10px;
+  padding-bottom: 10px;
+}
+
+.tit_styled {
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
